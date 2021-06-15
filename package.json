@@ -1,0 +1,23 @@
+{
+  "name": "AnnifMB_Copy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yitsou1985/AnnifBM1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yitsou1985/AnnifBM1/issues"
+  },
+  "homepage": "https://github.com/yitsou1985/AnnifBM1",
+  "dependencies": {
+    "gh-pages": "^3.2.1"
+  }
+}
